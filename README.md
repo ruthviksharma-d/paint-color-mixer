@@ -48,7 +48,7 @@ paint-color-mixer/
 
 -   Web browser
 
-### Step 1: To clone the repository (Optional - if you have a repo)
+## Step 1: To clone the repository (Optional - if you have a repo)
 
 ```bash
 git clone https://github.com/ruthviksharma-d/paint-color-mixer.git
