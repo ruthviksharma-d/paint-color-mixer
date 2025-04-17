@@ -35,10 +35,7 @@ paint-color-mixer/
 ├── index.html       # Main HTML file
 ├── styles.css         # CSS stylesheet
 ├── main.js        # JavaScript functionality
-├── (assets)/       # Folder for images, etc.
-│   └── (images)/
-│       └── (sun.png) #for light theme button
-|       └── (moon.png) #for dark theme button 
+├── (icons)  # SVG codes for sun and moon icons
 └── README.md        
 ```
 
