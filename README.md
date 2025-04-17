@@ -34,10 +34,17 @@ A web application that helps you determine how to mix base colors to achieve a d
 
 ## 📁 Project Structure
 
+```
 paint-color-mixer/
-├── index.html       # Main HTML file<br>
-├── style.css         # CSS stylesheet<br>
-├── script.js        # JavaScript functionality├── (assets)/       # Optional: Folder for images, etc.│   └── (images)/│       └── (color-wheel.png) # Example image└── README.md        # Project documentation
+├── index.html       # Main HTML file
+├── style.css         # CSS stylesheet
+├── script.js        # JavaScript functionality
+├── (assets)/       # Optional: Folder for images, etc.
+│   └── (images)/
+│       └── (color-wheel.png) # Example image
+└── README.md        # Project documentation
+```
+
 ## 🚀 Installation & Setup
 
 ### Prerequisites
