@@ -18,7 +18,9 @@ A web application that helps you determine how to mix base colors to achieve a d
 ### Color Selection
 
 ![image](https://github.com/user-attachments/assets/531f76b3-65ca-438f-96f3-0a54f6639d76)
-<img src="![image](https://github.com/user-attachments/assets/531f76b3-65ca-438f-96f3-0a54f6639d76)" alt="Alt text" width="300">
+
+<img src="https://github.com/user-attachments/assets/531f76b3-65ca-438f-96f3-0a54f6639d76" alt="Alt text" width="300">
+
 
 ### Mixing Results
 
