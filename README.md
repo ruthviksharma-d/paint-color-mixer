@@ -59,7 +59,7 @@ cd paint-color-mixer
 
 Open the `index.html` file in your web browser.
 
-
+---
 ## 🧰 Usage
 
 1. Select a target color using the color picker.
