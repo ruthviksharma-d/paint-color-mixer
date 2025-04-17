@@ -26,8 +26,7 @@ A web application that helps you determine how to mix base colors to achieve a d
 ## 🔧 Technologies Used
 
 -   **Frontend**: HTML5, CSS3, JavaScript
--   **Styling**: (You can specify a CSS framework here if used, e.g., Bootstrap, or just say "Custom CSS")
--   **Color Conversion**: (If you use a library for color conversion, mention it here)
+-   **Styling**: Custom CSS
 
 ## 📁 Project Structure
 
@@ -36,10 +35,11 @@ paint-color-mixer/
 ├── index.html       # Main HTML file
 ├── style.css         # CSS stylesheet
 ├── script.js        # JavaScript functionality
-├── (assets)/       # Optional: Folder for images, etc.
+├── (assets)/       # Folder for images, etc.
 │   └── (images)/
-│       └── (color-wheel.png) # Example image
-└── README.md        # Project documentation
+│       └── (sun.png) #for light theme button
+|       └── (moon.png) #for dark theme button 
+└── README.md        
 ```
 
 ## 🚀 Installation & Setup
