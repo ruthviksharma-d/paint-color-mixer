@@ -1,7 +1,7 @@
 # Paint Color Mixer Web Application 🎨
 
 A web application that helps you determine how to mix base colors to achieve a desired target color, providing both percentage and volume suggestions.
-<br>
+<br><br>
 ![image](https://github.com/user-attachments/assets/ae557904-64ae-4c73-ab7a-1edfd339745e)
 <br>
 ## ✨ Features
