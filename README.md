@@ -48,7 +48,7 @@ paint-color-mixer/
 ## Step 1: To clone the repository (Optional - if you have a repo)
 
 ```bash
-git clone https://github.com/ruthviksharma-d/paint-color-mixer.git(https://github.com/ruthviksharma-d/paint-color-mixer.git)
+git clone https://github.com/ruthviksharma-d/paint-color-mixer.git
 cd paint-color-mixer
 ```
 ---
