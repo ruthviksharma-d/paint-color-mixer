@@ -1,12 +1,9 @@
-# paint-color-mixer
-Interactive web tool built with HTML, CSS, and JavaScript that allows users to select a target color and receive suggestions for mixing base colors from a predefined palette. The suggestions include both the percentage and the estimated volume (in ml) of each base color needed for a specified total volume.
-
 # Paint Color Mixer Web Application 🎨
 
 A web application that helps you determine how to mix base colors to achieve a desired target color, providing both percentage and volume suggestions.
-
-*[Image of the Main Application Interface, if available]* *(Replace this with an actual image if you have one)*
-
+<br>
+![image](https://github.com/user-attachments/assets/ae557904-64ae-4c73-ab7a-1edfd339745e)
+<br>
 ## ✨ Features
 
 -   **Intuitive Interface**: Clean, modern UI for easy color selection and mixing.
