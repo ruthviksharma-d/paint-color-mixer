@@ -17,7 +17,8 @@ A web application that helps you determine how to mix base colors to achieve a d
 
 ### Color Selection
 
-*[Screenshot of the color picker interface]*
+![image](https://github.com/user-attachments/assets/531f76b3-65ca-438f-96f3-0a54f6639d76)
+
 
 ### Mixing Results
 
