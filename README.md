@@ -23,12 +23,12 @@ A web application that helps you determine how to mix base colors to achieve a d
 
 <img src="https://github.com/user-attachments/assets/6b266737-61c6-448d-827f-43324fb1d5d7" alt="Alt text" width="478">
 
-## 🔧 Technologies Used
+### 🔧 Technologies Used
 
 -   **Frontend**: HTML5, CSS3, JavaScript
 -   **Styling**: Custom CSS
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 paint-color-mixer/
@@ -39,30 +39,30 @@ paint-color-mixer/
 └── README.md        
 ```
 
-## 🚀 Installation & Setup
+###🚀 Installation & Setup
 
 ### Prerequisites
 
 -   Web browser
 
-## Step 1: To clone the repository (Optional - if you have a repo)
+### Step 1: To clone the repository (Optional - if you have a repo)
 
 ```bash
 git clone https://github.com/ruthviksharma-d/paint-color-mixer.git
 cd paint-color-mixer
 ```
 ---
-## 🖥️ Step 2: Open the HTML File
+### 🖥️ Step 2: Open the HTML File
 
 Open the `index.html` file in your web browser.
 ---
-## 🧰 Usage
+### 🧰 Usage
 
 1. Select a target color using the color picker.
 2. Enter the total volume of paint you want to mix (in ml).
 3. View the suggested base colors, their percentages, and amounts.
 
-## 🧠 Learning Outcomes
+### 🧠 Learning Outcomes
 
 This project demonstrates:
 
@@ -76,7 +76,7 @@ This project demonstrates:
 
 ---
 
-## 📝 Future Enhancements
+### 📝 Future Enhancements
 
 - ✅ Larger Color Palette: Expand the range of base colors.
 - ✅ More Accurate Mixing Algorithm: Implement a more sophisticated color mixing model.
@@ -87,14 +87,14 @@ This project demonstrates:
 
 ---
 
-## 🐛 Troubleshooting
+### 🐛 Troubleshooting
 
 - **Display Issues**: Ensure you are using a modern web browser with JavaScript enabled.
 - **Color Accuracy**: Note that the application provides an approximation of real-world paint mixing.
 
 ---
 
-## 👥 Contributing
+### 👥 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
