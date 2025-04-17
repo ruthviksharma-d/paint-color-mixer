@@ -33,8 +33,8 @@ A web application that helps you determine how to mix base colors to achieve a d
 ```
 paint-color-mixer/
 ├── index.html       # Main HTML file
-├── style.css         # CSS stylesheet
-├── script.js        # JavaScript functionality
+├── styles.css         # CSS stylesheet
+├── main.js        # JavaScript functionality
 ├── (assets)/       # Folder for images, etc.
 │   └── (images)/
 │       └── (sun.png) #for light theme button
