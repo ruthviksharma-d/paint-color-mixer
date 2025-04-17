@@ -58,7 +58,7 @@ cd paint-color-mixer
 ## 🖥️ Step 2: Open the HTML File
 
 Open the `index.html` file in your web browser.
-
+<hr>
 ---
 ## 🧰 Usage
 
