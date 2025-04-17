@@ -59,7 +59,6 @@ cd paint-color-mixer
 
 Open the `index.html` file in your web browser.
 
----
 
 ## 🧰 Usage
 
