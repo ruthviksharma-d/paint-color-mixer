@@ -48,10 +48,21 @@ paint-color-mixer/
 
 -   Web browser
 
-### Step 1: Clone the repository (Optional - if you have a repo)
+### Step 1: To clone the repository (Optional - if you have a repo)
 
 ```bash
-git clone [https://github.com/ruthviksharma-d/paint-color-mixer.git](https://github.com/ruthviksharma-d/paint-color-mixer.git)
+git clone https://github.com/ruthviksharma-d/paint-color-mixer.git
 cd paint-color-mixer
 ```
-Step 2: Open the HTML fileOpen the index.html file in your web browser.🖥️ UsageSelect a target color using the color picker.Enter the total volume of paint you want to mix (in ml).View the suggested base colors, their percentages, and amounts.[Image or diagram illustrating how to use the color picker and input volume]🧠 Learning OutcomesThis project demonstrates:HTML Structure: Creating the layout for the color mixer application.CSS Styling: Designing a user-friendly and visually appealing interface.JavaScript Interactivity: Implementing dynamic updates and calculations.DOM Manipulation: Accessing and modifying HTML elements with JavaScript.Event Handling: Responding to user input (color selection, volume change).Color Model Conversion: (If applicable) Converting between color formats (e.g., hex to RGB).Basic Color Theory: (To some extent) Applying principles of color mixing.📝 Future EnhancementsLarger Color Palette: Expand the range of base colors.More Accurate Mixing Algorithm: Implement a more sophisticated color mixing model.User-Defined Base Colors: Allow users to customize the base color palette.Color Libraries Integration: Utilize external libraries for advanced color manipulation.Improved UI/UX: Enhance the design and user experience.Save/Load Palettes: Allow users to save and load custom color palettes.🐛 TroubleshootingDisplay issues: Ensure you are using a modern web browser with JavaScript enabled.Color Accuracy: Note that the application provides an approximation of real-world paint mixing.👥 ContributingContributions are welcome! Please feel free to submit a Pull Request.Fork the repositoryCreate your feature branch (git checkout -b feature/AmazingFeature)Commit your changes (git commit -m 'Add some AmazingFeature')Push to the branch (git push origin feature/AmazingFeature)Open a Pull Request🙏 Acknowledgements(Add any libraries, resources, or people you want to acknowledge)
+---
+## 🖥️ Step 2: Open the HTML File
+
+Open the `index.html` file in your web browser.
+
+---
+
+## 🧰 Usage
+
+1. Select a target color using the color picker.
+2. Enter the total volume of paint you want to mix (in ml).
+3. View the suggested base colors, their percentages, and amounts.
