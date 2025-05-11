@@ -111,4 +111,4 @@ Original URL: [https://codepen.io/Ruthvik-Sharma-the-sans/pen/qEEEOxJ](https://c
 
 Made with ❤️ by [Ruthvik Sharma](https://github.com/ruthviksharma-d)
 <br>
-[Go to top](#paint-color-mixer-web-application-🎨)
+[Go to top](#paint-color-mixer-web-application-)
